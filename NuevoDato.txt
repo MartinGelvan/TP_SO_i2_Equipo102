@@ -1,0 +1,5 @@
+E- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
+orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
+
+Primero Forkee el repositorio, en el git bash escribo git clone para clonar el repositorio, luego agrego los datos que me pide la consigna, para actualizarlo realizo el git add ., luego un git commit -m"EL NOMBRE DE LA CONSIGNA", y por ultimo, para que se suba esta actualizacion, realice un git push. Cuando ya todos subimos los datos, lo que hay que hacer es atualizar la carpeta del repositorio para ver los cambios, eso se hace dentro del git bash poniendo el comando git pull https://github.com/NahuelAntunez/TP_SO_i2_Equipo102.git. Y ya realizado esto, tendre actualizado la carpeta con los nuevos documentos.
+
